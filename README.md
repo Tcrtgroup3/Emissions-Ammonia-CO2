@@ -1,5 +1,5 @@
 # Emissions-Ammonia-CO2 Dataset
-Create a data portal with 10years forecast on Nigeria CO22 emissions estimations.
+Create a data portal with 10years forecast on Nigeria CO2 emissions estimations.
 •	Data cleansing and validation (Python or Tableau)
 •	Analysis and Forecasting  (Python or Tableau)
 1.	Import Datasets
